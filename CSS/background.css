@@ -1,0 +1,17 @@
+body{
+    background-image: url('pic1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 400%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h1{
+    text-decoration: underline;
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+#para1{
+    color:chartreuse;
+}
