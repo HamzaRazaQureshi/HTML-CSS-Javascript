@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: justify;
+    background-color: gray;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: chartreuse;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-style: italic;
+}
+#para1{
+    width: 49.8%;
+    border: 1px solid orange;
+    padding: 10px;
+    float: left;
+}
+#para2{
+    width: 49.8%;
+    border: 1px solid yellow;
+    padding: 10px;
+    float: right;
+}
