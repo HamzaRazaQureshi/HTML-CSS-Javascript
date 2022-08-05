@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+.row {
+    margin-bottom: 15px;
+  }
+.row > div {
+    border: 1px solid white;
+    background-color: white;
+  }
+#box1{
+    margin: 2%;
+    background-color: rgb(151, 150, 150);
+    border: 2px solid black;
+    font-family: Verdana;
+    font-weight: 500;
+}
+h1{
+  text-align: center;
+  margin: 4%;
+  font-family: Verdana;
+  font-weight: bold;
+}
+h2{
+  float: right;
+  border: 1px solid black;
+  width: 40%;
+  text-align: center;
+  padding: 1%;
+}
+p{
+  clear: right;
+  padding: 3%;
+}
+#head1{
+  background-color: #FFC0CB;
+}
+#head2{
+  background-color: #CD5C5C;
+  color: white;
+}
+#head3{
+  background-color: #F0E68C;
+}
