@@ -1,0 +1,50 @@
+@media (min-width: 992px) {
+    .col-lg-4{
+      float: left;
+    }
+    .col-lg-4 {
+      width: 33.33%;
+    }
+    #navbarText{
+        font-size: 0%;
+    }
+    .box1 a{
+        font-size: 0%;
+    }
+}
+  
+@media (min-width: 576px) and (max-width: 991px) {
+    .col-md-6, .col-md-12 {
+      float: left;
+    }
+    .col-md-6 {
+      width: 50%;
+    }
+    .col-md-12 {
+      width: 100%;
+    }
+    #navbarText{
+        font-size: 0%;
+    }
+    .box1 a{
+        font-size: 0%;
+    }
+}
+
+@media (max-width: 575px){
+    .nav-item{
+        font-weight: 500;
+        font-size: 20px;
+        width: 100%;
+        background-color: #fff;
+        border: 1px solid #000;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+}
